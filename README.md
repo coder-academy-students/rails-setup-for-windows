@@ -15,13 +15,13 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
   Open this and type `ruby -v` to see that your Ruby has been installed correctly.
   Also type `rails -v` to see that Rails has been installed.
 
-04. Download and run DevKit . It is a zip file and will ask where you want to extract the files. Choose the Ruby folder which will be directly on your C: drive.
+04. Download and run DevKit . It is a zip file and will ask where you want to extract the files. Choose the RailsFTW folder which will be directly on your C: drive.
     
 05. When the files are extracted, open up a command prompt window. (Start menu, type `cmd` and hit enter)
 
 06. Navigate the to the DevKit directory.
     ```
-    cd C:\Ruby\Devkit
+    cd C:\RailsFTW
     ```
 
 07. Run the following commands. More information here: [https://github.com/oneclick/rubyinstaller/wiki/Development-Kit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
@@ -35,7 +35,6 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
     Then restart your computer.
 
 09. You should now be able to create Rails apps! Congratulations!!
-<<<<<<< HEAD
-=======
+
 
  
