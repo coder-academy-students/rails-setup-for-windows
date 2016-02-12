@@ -36,5 +36,6 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
 
 09. You should now be able to create Rails apps! Congratulations!!
 
+10. Also download and install [https://git-scm.com/](Git)
 
  
