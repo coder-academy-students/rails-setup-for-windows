@@ -19,9 +19,9 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
     
 05. When the files are extracted, open up a command prompt window. (Start menu, type `cmd` and hit enter)
 
-06. Navigate the to the DevKit directory.
+06. Navigate the to where the RailsFTW directory was installed. Usually something like:
     ```
-    cd C:\RailsFTW
+    cd C:\RailsFTWxxx
     ```
 
 07. Run the following commands. More information here: [https://github.com/oneclick/rubyinstaller/wiki/Development-Kit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
@@ -30,7 +30,7 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
     ruby dk.rb install
     ```
 
-08. Install Node.js from their website: [https://nodejs.org/download/](https://nodejs.org/download/)
+08. Install Node.js from their website: [https://nodejs.org/](https://nodejs.org/download/)
     
     Then restart your computer.
 
