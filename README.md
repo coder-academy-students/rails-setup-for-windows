@@ -30,12 +30,12 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
     ruby dk.rb install
     ```
 
-08. Install Node.js from their website: [https://nodejs.org/](https://nodejs.org/download/)
+08. Download the latest Node.js from the website: [https://nodejs.org/](https://nodejs.org/) and install as normal.
     
-    Then restart your computer.
+    Then restart your command prompt windows. You will know that it is installed if you type in `npm -v` and see a version number as the response.
 
 09. You should now be able to create Rails apps! Congratulations!!
 
-10. Also download and install [https://git-scm.com/](Git)
+10. Also download and install [Git](https://git-scm.com/)
 
  
