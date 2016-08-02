@@ -1,8 +1,8 @@
 # Install Rails on Windows
 
-Note: Even if you are using a 64bit version of Windows, it is advised to use the 32bit versions of the Ruby Installer and Devkit as they are more stable.
+Note: Even if you are using a 64bit version of Windows, it is advised to use the 32bit versions of the Devkit as they are more stable.
 
-01. Go to the RubyInstaller download page. [http://railsftw.bryanbibat.net/](http://railsftw.bryanbibat.net/)
+01. Go to the RailsFTW download page. [http://railsftw.bryanbibat.net/](http://railsftw.bryanbibat.net/)
 
   Click on the Download button, download and install the package.
 
