@@ -6,7 +6,7 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
 
   Click on the Download button, download and install the package.
 
-02. Download the Devkit for the 2.0 and 2.1 version of RubyInstaller http://rubyinstaller.org/downloads.
+02. Download the **Devkit** for use with Ruby 2.0 and above (32bits version only - even if you have a 64bit computer): [http://rubyinstaller.org/downloads](http://rubyinstaller.org/downloads).
 
   Currently: `DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe`
 
@@ -15,7 +15,7 @@ Note: Even if you are using a 64bit version of Windows, it is advised to use the
   Open this and type `ruby -v` to see that your Ruby has been installed correctly.
   Also type `rails -v` to see that Rails has been installed.
 
-04. Download and run DevKit . It is a zip file and will ask where you want to extract the files. Choose the RailsFTW folder which will be directly on your C: drive.
+04. Download and run DevKit . It is a zip file and will ask where you want to extract the files. **Choose the RailsFTW folder which will be directly on your C: drive**.
     
 05. When the files are extracted, open up a command prompt window. (Start menu, type `cmd` and hit enter)
 
