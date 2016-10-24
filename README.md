@@ -25,16 +25,17 @@ Note: RailsFTW hasn't updated to the latest version of ruby so we have to do a b
 
   Currently: `DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe`
 
-07. In powershell type `ruby -v` to see that your Ruby has been installed correctly.
+07. In Powershell type `ruby -v` to see that your Ruby has been installed correctly.
 
 08. Download and run DevKit . It is a zip file and will ask where you want to extract the files. **Choose the RailsFTW folder which will be directly on your C: drive**.
 
 09. When the files are extracted, open up a command prompt window. (Start menu, type `cmd` and hit enter)
 
-10. Navigate the to where the RailsFTW directory was installed. Usually something like:
+10. Navigate the to where the RailsFTW directory was installed. Usually something like (Note: the xxx is your RailsFTW version number):
     ```
     cd C:\RailsFTWxxx
     ```
+
 
 11. Run the following commands. More information here: [https://github.com/oneclick/rubyinstaller/wiki/Development-Kit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
     ```
@@ -48,9 +49,9 @@ Note: RailsFTW hasn't updated to the latest version of ruby so we have to do a b
 
 13. To install Rails 5.0 type the command `gem install rails`
 
-Also type `rails -v` to see that Rails has been installed.
+14. Also type `rails -v` to see that Rails has been installed.
 
 
-14. You should now be able to create Rails apps! Congratulations!!
+15. You should now be able to create Rails apps! Congratulations!!
 
-15. Also download and install [Git](https://git-scm.com/)
+16. Also download and install [Git](https://git-scm.com/)
