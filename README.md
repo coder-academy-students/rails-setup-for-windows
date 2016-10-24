@@ -15,12 +15,12 @@ Note: RailsFTW hasn't updated to the latest version of ruby so we have to do a b
 [gemsupdate-2.6.7](https://rubygems.org/downloads/rubygems-update-2.6.7.gem)
 
 04. Open the program Powershell and type:
-    ```
-    gem install --local C:\rubygems-update-2.6.7.gem
-    ```
-    ```
-    update_rubygems --no-ri --no-rdoc
-    ```
+            ```
+            gem install --local C:\rubygems-update-2.6.7.gem
+            ```
+            ```
+            update_rubygems --no-ri --no-rdoc
+            ```
 
 05. You can uninstall rubygems-update by typing in Powershell:
 `gem uninstall rubygems-update -x`
