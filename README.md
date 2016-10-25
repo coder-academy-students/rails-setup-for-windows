@@ -51,7 +51,7 @@ Note: RailsFTW hasn't updated to the latest version of ruby so we have to do a b
 
     Then restart your command prompt windows. You will know that it is installed if you type in `npm -v` and see a version number as the response.
 
-13. To install Rails 5.0 type the command `gem install rails`
+13. To install Rails 5.0 type the command `gem install rails --no-document`
 
 14. Also type `rails -v` to see that Rails has been installed.
 
